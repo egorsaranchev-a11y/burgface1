@@ -101,3 +101,9 @@ python main.py
 # 🍔 BurgFace
 
 **Made with ❤️ and Python**
+# 🍔 BurgFace
+
+![Version](https://img.shields.io/badge/version-v0.20-blue)
+![Python](https://img.shields.io/badge/Python-3.12-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
